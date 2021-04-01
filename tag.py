@@ -14,7 +14,7 @@ botStart = time.time()
 #third
 cl = LINE()
 channelToken = cl.getChannelResult()
-cl.log("TOKEN:" + str(cl.authToken))
+cl.log("F19ge69jx5xMeBbhwz57.kR/H9EYL1yJZ3xBlTYOK1W.NzhgbVKAcvjXpQ06XuWiqG104gI+LiuHL+S7SBpsKlo=" + str(cl.authToken))
 
 print ("======THIRDz=====")
 oepoll = OEPoll(cl)
@@ -36,7 +36,7 @@ wait2 = {
 setTime = {}
 setTime = wait2['setTime']
 admin=[clMID]
-master=['u039d3e7645cdf9b119ae0bd765aec8db']
+master=['u2abfa1f5eca5d588f3dd76cbb72a24d7']
 msg_dict = {}
 bl = [""]
 def cTime_to_datetime(unixtime):
